@@ -23,5 +23,5 @@
    - was assigned to develop a machine learning model. All the parts of development and training were assigned to them.
 3) [Bhavesh Gaikwad](https://github.com/Bhavesh2011)
    - Was assigned to develop the backend of the website and to deploy the website on streamlit.
-4) [Rugwed Khairnar]()
+4) [Rugwed Khairnar](https://github.com/Rugwed911)
    - Was assigned to develop the front end of the website and to deploy the website on streamlit.
